@@ -33,6 +33,8 @@ body{
     display: flex;
     justify-content: space-between;
     padding: 0 200px;
+    gap: 60px;
+    margin-bottom: 50px;
 }
 .hero-text{
     color:#F9FAF8;
@@ -42,6 +44,7 @@ body{
 .hero-subtext{
     font-size: 18px;
     color: #E5E7EB;
+    margin: 10px 0px;
 }
 .hero-button{
     color: #F9FAF8;
